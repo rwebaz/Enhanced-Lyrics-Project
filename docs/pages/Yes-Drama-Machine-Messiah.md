@@ -214,5 +214,3 @@ The strength of your singular ... eye.
 ***
 
  Source: [Machine Messiah by Yes](https://youtu.be/PbrO7rO2_rw){:target="_blank"}
-
-***
