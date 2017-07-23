@@ -5,13 +5,18 @@ navigation_weight: 2
 ---
 # Machine Messiah
 
+## Table O Contents
+
+- TOC
+{:toc}
+
 ## The Drama Album by Yes, '79 - '80
 
 ### Lyrics by Yes (Trevor Horn, Chris Squire, Alan White, Steve Howe, Geoff Downes with Oliver Wakeman and Benoît David performing Live at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour)
 
 ***
 
-### Intro Machine
+## Intro Machine
 
 ***
 
