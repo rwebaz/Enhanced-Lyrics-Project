@@ -12,7 +12,7 @@ navigation_weight: 9
 
 ## The Black Holes and Revelations Album by Muse, 2006
 
-### Lyrics by Muse ( Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard ) performing Live at the Firefly Festival in Dover, Delaware, USA 2017, Tuesday, June 18th
+### Lyrics by Muse ( Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard ) performing Live at the Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th
 
 ## Guitar Rift Intro
 
@@ -124,4 +124,4 @@ And, I'll wait for the sign!
 
 ***
 
-**Source**: [Exo Politics by The Muse Live at The Firefly Festival](https://www.youtube.com/watch?v=bKyX3KNPH6s){:target="_blank"}
+**Source**: [The Muse Live at The Firefly Festival](https://www.youtube.com/watch?v=bKyX3KNPH6s){:target="_blank"}
