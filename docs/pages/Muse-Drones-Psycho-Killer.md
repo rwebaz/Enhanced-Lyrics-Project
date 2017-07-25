@@ -1,5 +1,5 @@
 ---
-title: Psycho ( Killer )
+title: Psycho Killer
 layout: default
 navigation_weight: 9
 ---
