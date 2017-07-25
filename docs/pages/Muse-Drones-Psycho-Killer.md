@@ -1,9 +1,9 @@
 ---
-title: Psycho Killer
+title: Psycho ( Killer )
 layout: default
 navigation_weight: 9
 ---
-# Psycho Killer
+# Psycho ( Killer )
 
 ## Table O Contents
 
