@@ -80,7 +80,7 @@ Secrets locked up,
 
 And, loaded on my back!
 
-When it weighs me down.
+And, it weighs me down!
 
 ***
 
