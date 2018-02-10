@@ -1,20 +1,20 @@
 ---
 title: Machine Messiah
 layout: default
+excerpt: Run down the street where the glass shows that summer has gone ...
+version: Page Template md Dtd 02-06-18
 navigation_weight: 2
+categories: lyrics, yes
 ---
-# Machine Messiah
+# {{ page.title }}
 
-## Table O Contents
+{{ page.excerpt }}
 
-- TOC
-{:toc}
+{% include toc.md %}
 
 ## The Drama Album by Yes, '79 - '80
 
-### Lyrics by Yes (Trevor Horn, Chris Squire, Alan White, Steve Howe, Geoff Downes with Oliver Wakeman and Benoît David performing Live at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour)
-
-***
+Lyrics [[2](#MACHINEMESSIAHYES){:.red}] by Yes (Trevor Horn, Chris Squire, Alan White, Steve Howe, Geoff Downes ) with Oliver Wakeman and Benoît David performing Live at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour.
 
 ## Intro Machine
 
@@ -218,4 +218,24 @@ The strength of your singular ... eye.
 
 ***
 
- Source: [Machine Messiah by Yes](https://youtu.be/PbrO7rO2_rw){:target="_blank"}
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
+{% include sources-and-uses.md %}
+
+1. {:#MACHINEMESSIAHYES}[Machine Messiah by Yes, 2009](https://youtu.be/PbrO7rO2_rw){:title='Click to Watch the YouTube video of Machine Messiah performed by Yes at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour'}{:target='_blank'}.
+
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Lyrics/Source-Lyrics-Links.htm){:title='Click to Visit the Source Links page of the Enhanced Lyrics Project at GitHub pages'}{:target='_blank'} page of the Enhanced Lyrics Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concept Library at the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
+
+**Note**. This page crafted with {{ page.version }}.

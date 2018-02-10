@@ -1,8 +1,6 @@
 # Site settings
-#
-# Date of this Update to Config-template file ver 12-31-2017
-#
-# github: [metadata]
+# 
+# Date of this Update to Config-template file ver 02-08-2018
 #
 # Uncomment theme for docs folder
 theme: "jekyll-theme-cayman"
@@ -13,9 +11,10 @@ theme: "jekyll-theme-cayman"
 # There are approx sixty auxillary repositories as of 12-31-17
 # repository: https://www.github.com/rwebaz/Enhanced-Lyrics-Project
 #
+lang: "en-US"
 title: "Enhanced Lyrics Project"
-tagline: "A GitHub repo of Enhanced Lyrics"
-description: "A GitHub repo of Enhanced Lyrics."
+tagline: "A GitHub repo of of Lessons and Articles that emphasize modern Enhanced Lyrics techniques"
+description: "The Enhanced Lyrics Project, or ELP is a GitHub repo of Lessons and Articles emphasizing modern Enhanced Lyrics techniques."
 twitter:
     username: "mminail"
 author:
@@ -23,7 +22,7 @@ author:
     email: "mminail@icloud.com"
     github_username: "mminail"
     twitter_username: "mminail"
-# The 'baseurl' is the subpath of your designated project, e.g. /Liquid-Lessons-Project or /blog or simply "/"
+# The 'baseurl' is the subpath of your designated project, e.g. /Blank-Lessons-Project or /blog or simply "/"
 baseurl: "/Enhanced-Lyrics-Project"
 # The 'url' is the parental web address of your designated project, e.g. /https://mminail.github.io
 url: "https://rwebaz.github.io"
@@ -37,6 +36,7 @@ kramdown:
     math_engine: "mathjax"
 timezone: "America/Phoenix"
 google_analytics: [UA-44765001-12]
+# Settings For Default Keys: Use a scope/values pair
 defaults:
   - scope:
       path: "assets/img"
@@ -54,27 +54,31 @@ defaults:
       image: "true"
 defaults:
   - scope:
+      path: "assets/img/ico"
+    values:
+      image: "true"
+defaults:
+  - scope:
       path: "" 
       type: "pages"
     values:
-      layout: "default"
-      author: "Robert Weber, Director"
+      category: "lyrics"
 defaults:
   - scope:
       path: "pages"
       type: "pages"
     values:
-      layout: "default" 
-      author: "Robert Weber, Director"
+      category: "lyrics"
+excerpt_separator: <!-- this is a literal excerpt separator -->
 collections:
-  collection_CFFP:
+  gists:
     output: "true"
 defaults:
   - scope:
-      path: ""
-      type: "collection_LLP"
+      path: "_gists"
+      type: "pages"
     values:
-      layout: "page"
+      category: "lyrics"
 plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
@@ -82,3 +86,4 @@ plugins_dir:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Gemfile.old

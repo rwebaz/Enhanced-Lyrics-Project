@@ -1,18 +1,20 @@
 ---
 title: Supermassive Blackhole
 layout: default
-navigation_weight: 9
+excerpt: Glaciers melting in the dead of night ...
+version: Page Template md Dtd 02-06-18
+navigation_weight: 8
+categories: lyrics, muse
 ---
-# Supermassive Blackhole
+# {{ page.title }}
 
-## Table O Contents
+{{ page.excerpt }}
 
-- TOC
-{:toc}
+{% include toc.md %}
 
 ## The Black Holes and Revelations Album by Muse, 2006
 
-### Lyrics by Muse ( Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard ) performing Live at the Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th
+Lyrics [[2](#FIREFLYMUSE){:.red}] by The Muse ( Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard ) performing Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour.
 
 ## Instrumental Intro A
 
@@ -28,9 +30,9 @@ navigation_weight: 9
 
 Ooh, baby don't you know I suffer?
 
-Ooh, baby can you hear me moan?
+Ooh, baby can't you hear me moan?
 
-You caught me under false pretenses.
+You caught me under false pretenses ...
 
 How long before you let me go?
 
@@ -76,9 +78,9 @@ And, the superstars sucked into the ...
 
 I thought I was a fool for no one.
 
-Oh baby, I'm a fool for you!
+Ooh baby, I'm a fool for you!
 
-You're the Queen of the superficial.
+You're the Queen of the superficial ...
 
 And, how long before you tell the truth?
 
@@ -186,4 +188,24 @@ Super massive black hole ...
 
 ***
 
-**Source**: [Supermassive Blackhole by The Muse Live at The Firefly Festival](https://www.youtube.com/watch?v=bKyX3KNPH6s){:target="_blank"}
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
+{% include sources-and-uses.md %}
+
+1. {:#FIREFLYMUSE}[The Muse Live at The Firefly Festival, 2017](https://www.youtube.com/watch?v=bKyX3KNPH6s){:title='Click to Watch the YouTube video of the The Muse Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour'}{:target='_blank'}.
+
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Lyrics/Source-Lyrics-Links.htm){:title='Click to Visit the Source Links page of the Enhanced Lyrics Project at GitHub pages'}{:target='_blank'} page of the Enhanced Lyrics Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concept Library at the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
+
+**Note**. This page crafted with {{ page.version }}.
