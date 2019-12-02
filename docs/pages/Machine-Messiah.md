@@ -2,19 +2,23 @@
 title: Machine Messiah
 layout: default
 excerpt: Run down the street where the glass shows that summer has gone ...
-version: Page Template md Dtd 02-06-18
-navigation_weight: 2
-categories: lyrics, yes
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Enhanced-Lyrics-Project
+ver_date: 11-26-19
+navigation_weight: 8
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
+
+## Drama
+
+> **Hint**. {{ page.hint }}
+
+More to come ...
 
 ## The Drama Album by Yes, '79 - '80
 
-Lyrics [[2](#MACHINEMESSIAHYES){:.red}] by Yes (Trevor Horn, Chris Squire, Alan White, Steve Howe, Geoff Downes ) with Oliver Wakeman and Benoît David performing Live at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour.
+Lyrics by Yes including Trevor Horn, Chris Squire, Alan White, Steve Howe, and Geoff Downes with Oliver Wakeman and Benoît David derived from a live performance at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour.
 
 ## Intro Machine
 
@@ -220,22 +224,14 @@ The strength of your singular ... eye.
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-### Raw Code Block
+***
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
-
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from a live performance by Yes [[1](#MACHINEMESSIAHYES){:.red}].
 
 1. {:#MACHINEMESSIAHYES}[Machine Messiah by Yes, 2009](https://youtu.be/PbrO7rO2_rw){:title='Click to Watch the YouTube video of Machine Messiah performed by Yes at the Bourse du Travail in Lyon, France 2009, Tuesday, December 1st, In The Present Tour'}{:target='_blank'}.
 
-### External Sources
+***
 
-- The [Project Source Links](https://mminail.github.io/Lyrics/Source-Lyrics-Links.htm){:title='Click to Visit the Source Links page of the Enhanced Lyrics Project at GitHub pages'}{:target='_blank'} page of the Enhanced Lyrics Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concept Library at the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
