@@ -2,19 +2,23 @@
 title: Psycho Killer
 layout: default
 excerpt: Love, it will get you nowhere ...
-version: Page Template md Dtd 02-06-18
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Enhanced-Lyrics-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: lyrics, muse
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
-## The Drones Album by Muse, 2015
+## Drones
 
-Lyrics [[2](#FIREFLYMUSE){:.red}] by The Muse ( Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard ) performing Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour.
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+### The Drones Album by Muse, 2015
+
+Lyrics by The Muse including Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard derived from a live erformance at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour.
 
 ## Marine Drill Sergeant ( Intro )
 
@@ -448,22 +452,14 @@ Oh! Oooooogh!
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-### Raw Code Block
+***
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
-
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from a live performance by The Muse [[1](#FIREFLYMUSE){:.red}].
 
 1. {:#FIREFLYMUSE}[Psycho ( Killer ) by The Muse Live at The Firefly Festival, 2017](https://youtu.be/t7FvDCt_UY8){:title='Click to Watch the YouTube video of the The Muse Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour'}{:target='_blank'}.
 
-### External Sources
+***
 
-- The [Project Source Links](https://mminail.github.io/Lyrics/Source-Lyrics-Links.htm){:title='Click to Visit the Source Links page of the Enhanced Lyrics Project at GitHub pages'}{:target='_blank'} page of the Enhanced Lyrics Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concept Library at the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
