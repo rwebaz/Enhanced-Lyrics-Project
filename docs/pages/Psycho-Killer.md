@@ -4,7 +4,7 @@ layout: default
 excerpt: Love, it will get you nowhere ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
 repo: Enhanced-Lyrics-Project
-ver_date: 11-26-19
+ver_date: 12-22-20
 navigation_weight: 8
 categories: page
 ---
@@ -18,7 +18,7 @@ More to come ...
 
 ### The Drones Album by Muse, 2015
 
-Lyrics by The Muse including Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard derived from a live erformance at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour.
+Lyrics by The Muse including Guitarist Matt Bellamy, Bassist Chris Wolstenholme, Drummer Dominic Howard derived from a live performance at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour.
 
 ## Marine Drill Sergeant ( Intro )
 
@@ -458,7 +458,7 @@ More to come ...
 
 **Note**. The above synopsis was derived from a live performance by The Muse [[1](#FIREFLYMUSE){:.red}].
 
-1. {:#FIREFLYMUSE}[Psycho ( Killer ) by The Muse Live at The Firefly Festival, 2017](https://youtu.be/t7FvDCt_UY8){:title='Click to Watch the YouTube video of the The Muse Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour'}{:target='_blank'}.
+1. {:#FIREFLYMUSE}[Psycho ( Killer ) by The Muse Live at The Firefly Festival, 2017](https://youtu.be/UqLRqzTp6Rk){:title='Click to Watch the YouTube video of the The Muse Live at the Delaware Firefly Festival in Dover, Delaware, USA 2017, Sunday, June 18th, North America Tour'}{:target='_blank'}.
 
 ***
 
